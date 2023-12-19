@@ -12,7 +12,7 @@ BI Publisher (theoretically) can print two types of codes: QR Codes and PDF417 c
 
 ### Web Posting: https://peopletoolstechtips.com/tbd
 
-### YouTube demo: tbd
+### YouTube demo: https://youtu.be/uudxH-WgqJQ
 
 ### Contact:  
 * randy@peopletoolstechtips.com  
