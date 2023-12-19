@@ -1,0 +1,7 @@
+<rs_X_QRCODE_WRK xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" numrows="1" rowsetname="X_QRCODE_WRK" xsi:noNamespaceSchemaLocation="">
+<row_X_QRCODE_WRK rownumber="1">
+<fld_BTN_PRINT/>
+<fld_X_QRCODE_TYPE>Q</fld_X_QRCODE_TYPE>
+<fld_X_QRCODE_DATA>https://peopletoolstechtips.com/</fld_X_QRCODE_DATA>
+</row_X_QRCODE_WRK>
+</rs_X_QRCODE_WRK>
